@@ -32,36 +32,36 @@ Durant quatre setmanes, hauran de demostrar que dominen allò que abans semblava
 
 [Ir a T01 ](./T01)
 
-[Ir a T01 ](./T02)
+[Ir a T02 ](./T02)
 
-[Ir a T01 ](./T03)
+[Ir a T03 ](./T03)
 
-[Ir a T01 ](./T04)
+[Ir a T04 ](./T04)
 
-[Ir a T01 ](./T05)
+[Ir a T05 ](./T05)
 
-[Ir a T01 ](./T06)
+[Ir a T06 ](./T06)
 
-[Ir a T01 ](./T07)
+[Ir a T07 ](./T07)
 
-[Ir a T01 ](./T08)
+[Ir a T08 ](./T08)
 
-[Ir a T01 ](./T09)
+[Ir a T09 ](./T09)
 
-[Ir a T01 ](./T10)
+[Ir a T10 ](./T10)
 
-[Ir a T01 ](./T11)
+[Ir a T11 ](./T11)
 
-[Ir a T01 ](./T12)
+[Ir a T12 ](./T12)
 
-[Ir a T01 ](./T13)
+[Ir a T13 ](./T13)
 
-[Ir a T01 ](./T14)
+[Ir a T14 ](./T14)
 
-[Ir a T01 ](./T15)
+[Ir a T15 ](./T15)
 
-[Ir a T01 ](./P01)
+[Ir a P01 ](./P01)
 
-[Ir a T01 ](./P02)
+[Ir a P02 ](./P02)
 
-[Ir a T01 ](./P03)
+[Ir a P03 ](./P03)
