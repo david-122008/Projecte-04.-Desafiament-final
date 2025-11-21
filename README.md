@@ -30,4 +30,4 @@
 Aquest projecte representa la **darrera etapa del període de pràctiques internes** dels alumnes dins l’empresa EverPia, on han estat treballant en qualitat de *junior IT* durant tot el trimestre.  
 Durant quatre setmanes, hauran de demostrar que dominen allò que abans semblava impossible i que estan preparats per fer el salt cap a una trajectòria professional pròpia.
 
-(T01)
+[Ir a T01 ](./T01)
