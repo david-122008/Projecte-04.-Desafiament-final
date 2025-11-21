@@ -31,20 +31,37 @@ Aquest projecte representa la **darrera etapa del període de pràctiques intern
 Durant quatre setmanes, hauran de demostrar que dominen allò que abans semblava impossible i que estan preparats per fer el salt cap a una trajectòria professional pròpia.
 
 [Ir a T01 ](./T01)
+
 [Ir a T01 ](./T02)
+
 [Ir a T01 ](./T03)
+
 [Ir a T01 ](./T04)
+
 [Ir a T01 ](./T05)
+
 [Ir a T01 ](./T06)
+
 [Ir a T01 ](./T07)
+
 [Ir a T01 ](./T08)
+
 [Ir a T01 ](./T09)
+
 [Ir a T01 ](./T10)
+
 [Ir a T01 ](./T11)
+
 [Ir a T01 ](./T12)
+
 [Ir a T01 ](./T13)
+
 [Ir a T01 ](./T14)
+
 [Ir a T01 ](./T15)
+
 [Ir a T01 ](./P01)
+
 [Ir a T01 ](./P02)
+
 [Ir a T01 ](./P03)
