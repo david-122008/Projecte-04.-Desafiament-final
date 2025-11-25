@@ -1,67 +1,56 @@
-Fase 1: Treball individual
+# Fase 1: Treball Individual
 
-De forma individual, heu de donar resposta a les següents preguntes basant-se en el cas pràctic:
+De forma individual, heu de donar resposta a les següents preguntes basant-se en el cas pràctic.
 
-1. Què copiar? (Priorització)
+---
 
-Quines són les dades més crítiques del servidor? Cal fer còpia dels 10 equips clients? Justifica-ho.
+## 1. Què copiar? (Priorització)
 
-Caldria copiar les dades més importants, com:
+**Quines són les dades més crítiques del servidor? Cal fer còpia dels 10 equips clients? Justifica-ho.**
 
-Els documents de projectes
+Les dades més importants que cal copiar són:
 
-Les carpetes personals dels usuaris
+- Documents de projectes  
+- Carpetes personals dels usuaris  
+- Bases de dades  
 
-Les bases de dades
+Pel que fa als 10 equips clients, només seria necessari copiar la **carpeta “Documents”** de cadascun, ja que és l’únic espai on poden haver-hi dades realment importants que no estiguin centralitzades al servidor.
 
-Pel que fa als equips clients, només caldria fer una còpia de la carpeta Documents, ja que la resta de dades no són essencials o ja estan centralitzades al servidor.
+---
 
-2. Periodicitat i Tipus de Còpia
+## 2. Periodicitat i Tipus de Còpia
 
-Proposta de calendari de còpies i tipus aplicat a les dades crítiques:
+A continuació es presenta el calendari de còpies i el tipus aplicat segons cada categoria de dades:
 
-Base de dades
+### **Base de dades**
+- Còpia incremental cada **4 hores**
+- Còpia incremental **diària**
+- Còpia **setmanal**
+- Còpia **mensual**
 
-Incremental cada 4 hores
+### **Documents de projectes**
+- Còpia incremental **diària**
+- Còpia **setmanal**
+- Còpia **mensual**
 
-Incremental diària
+### **Carpetes personals**
+- Còpia incremental **diària**
+- Còpia **setmanal**
 
-Còpia setmanal
+### **Carpeta Documents dels clients**
+- Còpia incremental **diària**
+- Còpia **setmanal**
 
-Còpia mensual
+---
 
-Això assegura la integritat i disponibilitat de les dades.
+## 3. Mitjans i Ubicació (Regla 3-2-1)
 
-Documents de projectes
+Segons la regla **3-2-1**, proposem:
 
-Incremental diària
+- **1 còpia recent** en un **NAS intern**
+- **1 còpia** al **núvol (Cloud)**
+- **1 còpia** en un **disc dur extern situat fora de l’empresa**
 
-Còpia setmanal
+Això garanteix redundància, seguretat i disponibilitat davant qualsevol fallada o desastre.
 
-Còpia mensual
-
-Carpetes personals
-
-Incremental diària
-
-Còpia setmanal
-
-Carpeta Documents (equips clients)
-
-Mateix procés que les carpetes personals:
-
-Incremental diària
-
-Còpia setmanal
-
-3. Mitjans i Ubicació
-
-Quin tipus de mitjà de còpia utilitzaries? On s’hauria de guardar físicament la còpia més recent (Regla 3-2-1)?
-
-Seguint la Regla 3-2-1:
-
-La còpia més recent hauria d’estar en un NAS intern.
-
-La segona còpia hauria d’estar al núvol (Cloud).
-
-La tercera còpia hauria d’estar en un disc dur extern fora de l’empresa.
+---
