@@ -17,3 +17,5 @@ Aquesta tasca té com a objectiu establir la **base de coneixement interna** per
 - Documentar el procediment de connexió SSH des de **Linux** i **Windows**.  
 - Crear guies d’ús internes clares i precises.  
 - Assegurar que els nous tècnics puguin connectar-se als sistemes de manera segura i eficient.  
+
+a l'arxiu [solució.md](Solucio.md)
