@@ -154,3 +154,5 @@ I configurarem els SOCKS.
 
 Per últim, després d’instal·lar el Wireshark, que és tan fàcil com donar-li a descarregar per Windows, a la seva pàgina web, validarem el túnel, i ja ens hauria de sortir.
 
+[torna al enunciat](README.md)
+
