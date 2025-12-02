@@ -101,3 +101,5 @@ Durant la primera hora, el responsable de seguretat presenta el tema de les còp
 - INCIBE. *Copias de seguridad. Una guía de aproximación para el empresario*  
 - Xataka. *Backup 3-2-1, el método definitivo para mantener a salvo tus datos* [YouTube, 2017]  
   https://youtu.be/PM_M4Iz6I4o?si=F7DRyDDTZE3hjWn8
+
+a l'arxiu [solució.md](Solucio1.md) hia la part individual
