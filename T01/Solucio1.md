@@ -54,3 +54,5 @@ Segons la regla **3-2-1**, proposem:
 Això garanteix redundància, seguretat i disponibilitat davant qualsevol fallada o desastre.
 
 ---
+
+[torna al enunciat](README.md)
