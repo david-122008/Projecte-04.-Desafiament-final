@@ -26,7 +26,7 @@ Heu de consensuar i dissenyar el vostre propi **Esquema 3-2-1 de Còpies**
 
 ---
 
-# Fase 2: Treball per grup
+# Fase 3: Treball per grup
 
 ## 2. Elaboració d'una Proposta Unificada
 Heu de consensuar i dissenyar el vostre propi **Esquema 3-2-1 de Còpies** (3 còpies, 2 mitjans, 1 fora de lloc) basat en els requisits del cas.
