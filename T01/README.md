@@ -103,3 +103,5 @@ Durant la primera hora, el responsable de seguretat presenta el tema de les còp
   https://youtu.be/PM_M4Iz6I4o?si=F7DRyDDTZE3hjWn8
 
 a l'arxiu [solució.md](Solucio1.md) hia la part individual
+
+a l'arxiu [solució.md](Solucio2.md) hi ha la part grupal i per parelles
