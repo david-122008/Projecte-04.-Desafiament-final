@@ -113,3 +113,4 @@ El grup ha de redactar la **Política de Còpies de Seguretat Definitiva** que p
 3. En cas de desastre total, recuperar còpia mensual des del Cloud.  
 
 
+[torna al enunciat](README.md)
