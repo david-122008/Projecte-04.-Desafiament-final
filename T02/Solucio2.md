@@ -1,6 +1,7 @@
-
+## T2 linux
 
 ![Imatge 01](IMA/ING1.png)
+
 Primer creem el segon disc de 10 GB
 
 ![Imatge 01](IMA/ING2.png)
