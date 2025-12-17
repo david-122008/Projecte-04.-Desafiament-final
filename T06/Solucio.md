@@ -1,3 +1,7 @@
+[Imatge 01](INTE/INA1.png)
+[Imatge 01](INTE/INA2.png)
+
+
 Primer de tot haurem de configurar les 2 màquines tant Ubuntu com Windows en xarxa nat,
 
 
