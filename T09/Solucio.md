@@ -176,7 +176,7 @@ Com que els usuaris no poden muntar els recursos cada cop que reinicien, es far�
 
 I Per últim farem sudo mount -a, y reiniciarem al màquina, i quan intentem entrar dintre de dev_projects ho admin_tools com usuari en hauria de denegar la possibilitat d’accedir.
 
-
+## Conclusió
 
 Hem fet la pràctica amb NFS i hem vist que és útil per compartir recursos entre servidor Ubuntu i client Zorin. Permet gestionar usuaris, grups i xarxes, però té un inconvenient: cal crear els mateixos usuaris i grups amb els mateixos UID i GID a totes les màquines. En una empresa amb molts equips això no és escalable, ja que s’hauria de repetir la configuració a cada ordinador i al servidor
 
